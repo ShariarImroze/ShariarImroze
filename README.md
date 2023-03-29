@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently Master's student in Germany, looking for Data Analyst role
+- 👯 I’m looking to collaborate on interesting **Machine Learning and Data Science** projects
+- ⚡ I like Gaming and watching movies
+
