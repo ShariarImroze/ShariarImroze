@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 - 🔭 I’m a Master's student and I'm looking for Data Analyst roles
 - 👯 I’m looking to collaborate on interesting **Machine Learning and Data Science** projects
-- ⚡ I like Gaming and watching movies
+- ⚡ I enjoy watching movies
 
